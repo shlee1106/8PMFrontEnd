@@ -1,3 +1,5 @@
+🏭 [산학협력 캡스톤 FrontEnd] 팔피엠(8PM) 실무 데이터를 연계한 MES 기반 AI 챗봇 웹 서비스 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
